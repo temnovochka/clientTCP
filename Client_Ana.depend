@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513290192 source:/home/ana/networks/Client_Ana/main.cpp
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<iostream>
+
